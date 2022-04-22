@@ -1,6 +1,7 @@
 <img src="https://cdn.discordapp.com/attachments/773671115859951646/966894083094229022/jooslogo.png" width="258" style="text-align: center;"/>
 
 # Team Juice 16236
+We are a FIRST Tech Challenge team based in Folsom, California. We host all of our season robot code here, feel free to take a look!
 
 <!--
 
